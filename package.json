@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Messing Around with Test Cafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/testcafe/bin/testcafe.js --skip-js-errors chrome tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolechung/testcafe_examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolechung/testcafe_examples/issues"
+  },
+  "homepage": "https://github.com/nicolechung/testcafe_examples#readme",
+  "devDependencies": {
+    "testcafe": "^1.1.0"
+  }
+}
