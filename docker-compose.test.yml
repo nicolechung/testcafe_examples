@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+
+  testcafe:
+    container_name: testing_testcafe
+    image: testcafe/testcafe
+    volumes:
+      - ./tests

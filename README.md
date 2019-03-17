@@ -1,2 +1,9 @@
 # testcafe
-Messing Around with Test Cafe
+```
+npm install
+```
+
+# Running tests
+```
+npm test
+```

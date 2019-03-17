@@ -4,7 +4,7 @@
   "description": "Messing Around with Test Cafe",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/testcafe/bin/testcafe.js --skip-js-errors chrome tests/"
+    "test": "./node_modules/testcafe/bin/testcafe.js --skip-js-errors chrome tests/"
   },
   "repository": {
     "type": "git",
