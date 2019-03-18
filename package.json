@@ -4,7 +4,8 @@
   "description": "Messing Around with Test Cafe",
   "main": "index.js",
   "scripts": {
-    "chrome-test": "testcafe chrome tests/"
+    "chrome-test": "testcafe chrome tests/",
+    "safari-test": "testcafe safari tests/"
   },
   "repository": {
     "type": "git",
